@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    align-items: center;
+    gap: 600px;
+    list-style: none;
+    background-color: gold;
+    height: 30px;
+    width: 1540px;
+}
+nav h6 {
+    margin-left: 200px;
+    margin-top: -px;
+}
+.polo svg {
+margin-left: 180px;
+margin-top: -6px;
+position: absolute;
+
+}
+nav p {
+    list-style: none;
+}
+.folo svg {
+    margin-left: -25px;
+    margin-top: -5px;
+    position: absolute;
+} 
+.olo h4{
+   
+}
+.olo img {
+    margin-top: 60px;
+    margin-left: 60px;
+}
